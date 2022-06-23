@@ -1,1 +1,2 @@
-My basic shell coding
+#!/bin/bash
+pwd
